@@ -25,7 +25,7 @@ Lescone é um projeto que consiste permitir que os clientes saibam se o restaura
 
 ## Sobre o projeto
 
-Site foi construído durante o curso de bootstrap4 da <a href="https://origamid.com/">Origamid</a>.
+Site foi construído durante o curso de SASS da <a href="https://origamid.com/">Origamid</a>.
 
 ## Tecnologias
 
